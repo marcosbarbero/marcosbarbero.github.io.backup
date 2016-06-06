@@ -8,7 +8,10 @@ Links
       http://martinfowler.com/bliki/MicroservicePrerequisites.html,
       http://12factor.net,
       http://presos.dsyer.com/decks/oauth-rest.html,
-      https://dzone.com/articles/the-power-patterns-and-pains-of-microservices
-	]
+      github.com/joshlong/power-patterns-pains-of-microservices
+	],
+	email: marcos.hgb@gmail.com,
+    linkedin: http://linkedin.com/in/marcosbarbero,
+    github: github.com/marcosbarbero
 }
 ```    
