@@ -2,8 +2,9 @@ Microservices - Poderes, padrões e dificuldades
 ---
 ```
 {
-	email: marcos.hgb@gmail.com
-	linkedin: http://linkedin.com/in/marcosbarbero
-	github: https://github.com/marcosbarbero
+	email: marcos.hgb@gmail.com,
+	linkedin: linkedin.com/in/marcosbarbero,
+	github: github.com/marcosbarbero,
+	slideshare: slideshare.net/MarcosGomesBarbero
 }
 ```
