@@ -4,4 +4,4 @@ Responsabilidades
   - Roteamento
   - CORS
   - Segurança
-  - Etc
+  - *Etc...*
