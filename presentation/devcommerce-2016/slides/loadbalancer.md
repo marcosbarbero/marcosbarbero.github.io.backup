@@ -1,5 +1,5 @@
 Balanceamento
 ---
 
-  - Do lado do *client*
+  - *Client side*
   - Somente para comunicação entre serviços
