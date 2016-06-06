@@ -1,0 +1,12 @@
+Pre-requisitos / Desafios
+---
+  - Configurações centralizadas
+  - Service Discovery & Registration
+  - Edge Services: Micro Proxies e API Gateways
+    - Roteamento e balanceamento
+  - Tolerância à falhas (Circuit Breakers)
+  - Security and Single Sign-On
+  - Complexidade Operacional
+    - Monitoração
+    - Distributed Tracing
+  - Cultura DevOps
