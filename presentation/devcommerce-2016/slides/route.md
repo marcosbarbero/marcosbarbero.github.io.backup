@@ -1,4 +1,5 @@
-Roteamento e Balanceamento
+Balanceamento
 ---
 
-  - Balanceamento do lado do *client*
+  - Do lado do *client*
+  - Somente para comunicação entre serviços
