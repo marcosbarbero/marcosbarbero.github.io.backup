@@ -1,4 +1,4 @@
-Roteamento e Balanceamento (Client Side)
+Roteamento e Balanceamento
 ---
 
   - Balanceamento do lado do *client*
