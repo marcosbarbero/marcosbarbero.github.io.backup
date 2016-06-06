@@ -1,4 +1,4 @@
 Ferramentas
 ---
 
-  - Spring Security
+  - Spring Security OAuth
