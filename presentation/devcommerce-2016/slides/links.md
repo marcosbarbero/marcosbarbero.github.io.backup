@@ -11,7 +11,7 @@ Links
       github.com/joshlong/power-patterns-pains-of-microservices
 	],
 	email: marcos.hgb@gmail.com,
-    linkedin: http://linkedin.com/in/marcosbarbero,
+    linkedin: linkedin.com/in/marcosbarbero,
     github: github.com/marcosbarbero
 }
 ```    
