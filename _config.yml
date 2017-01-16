@@ -25,6 +25,7 @@ github_username:  marcosbarbero
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
+source: DIR
 gems:
   - jekyll-feed
 exclude:
